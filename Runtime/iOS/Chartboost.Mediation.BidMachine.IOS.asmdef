@@ -1,0 +1,26 @@
+{
+    "name": "Chartboost.Mediation.BidMachine.IOS",
+    "rootNamespace": "Chartboost.Mediation.BidMachine.IOS",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.BidMachine",
+        "Chartboost.Mediation",
+        "Chartboost.Utilities.IOS",
+        "Chartboost.Utilities"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
