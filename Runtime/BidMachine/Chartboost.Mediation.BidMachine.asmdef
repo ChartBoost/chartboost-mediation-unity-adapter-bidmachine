@@ -1,0 +1,21 @@
+{
+    "name": "Chartboost.Mediation.BidMachine",
+    "rootNamespace": "Chartboost.Mediation.BidMachine",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Utilities",
+        "Chartboost.Mediation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Chartboost.Mediation.BidMachine.Tests.Runtime",
+    "rootNamespace": "Chartboost.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Chartboost.Utilities",
+        "Chartboost.Mediation.BidMachine",
+        "Chartboost.Logging",
+        "Chartboost.Utilities.Tests.Runtime"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

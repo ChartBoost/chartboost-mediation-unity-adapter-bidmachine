@@ -1,0 +1,26 @@
+{
+    "name": "Chartboost.Mediation.BidMachine.Android",
+    "rootNamespace": "Chartboost.Mediation.BidMachine.Android",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.BidMachine",
+        "Chartboost.Mediation",
+        "Chartboost.Mediation.Android",
+        "Chartboost.Utilities.Android"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
