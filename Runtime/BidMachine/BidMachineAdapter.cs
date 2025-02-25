@@ -12,7 +12,7 @@ namespace Chartboost.Mediation.BidMachine
         /// <summary>
         /// The partner adapter Unity version.
         /// </summary>
-        public const string AdapterUnityVersion = "5.1.0";
+        public const string AdapterUnityVersion = "5.1.1";
         
         /// <inheritdoc cref="IPartnerAdapterConfiguration.AdapterNativeVersion"/>
         public static string AdapterNativeVersion => Instance.AdapterNativeVersion;
