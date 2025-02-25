@@ -2,7 +2,7 @@
 <dependencies>
     <androidPackages>
         <!-- Android Adapter -->
-        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-bidmachine:5.3.0.+"/>
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-bidmachine:5.3.1.+"/>
         <!-- BidMachine Android Repositories -->
         <repositories>
           <repository>https://artifactory.bidmachine.io/bidmachine</repository>
