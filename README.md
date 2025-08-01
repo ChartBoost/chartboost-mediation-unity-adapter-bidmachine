@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - BidMachine Adapter to your 
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.bidmachine": "5.1.3",
+    "com.chartboost.mediation.unity.adapter.bidmachine": "5.1.4",
     ...
 },
 "scopedRegistries": [
@@ -174,3 +174,6 @@ var publisherInfo = new PublisherInfo(publisherId, publisherName, publisherDomai
 
 BidMachineAdapter.SetPublisherInfo(publisherInfo);
 ```
+
+> **Note** \
+> Starting `BidMachine 5.1.4` we have automatically included a post-processing script to modify `OTHER_LDFLAGS` to only include `-ObjC`. This is required for proper Bidmachine functionality. Older versions of the Chartboost Mediation Unity - BidMachine adapter might require you add this script into your assets directory. The script can be found at `com.chartboost.mediation.unity.adapter.bidmachine/Editor/BuildMachineBuildPostProcessor.cs`
