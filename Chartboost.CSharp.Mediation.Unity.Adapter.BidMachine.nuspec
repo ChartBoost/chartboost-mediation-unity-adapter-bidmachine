@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Chartboost.CSharp.Mediation.Unity.Adapter.BidMachine</id>
-    <version>5.1.4</version>
+    <version>5.1.5</version>
     <title>Chartboost Mediation Adapter - BidMachine</title>
     <description>The Chartboost Mediation Unity SDK Adapter for BidMachine.</description>
     <authors>Chartboost</authors>

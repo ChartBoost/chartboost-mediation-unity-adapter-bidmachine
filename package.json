@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.bidmachine",
-    "version": "5.1.4",
+    "version": "5.1.5",
     "displayName": "Chartboost Mediation Adapter - BidMachine",
     "description": "The Chartboost Mediation Unity SDK Adapter for BidMachine.",
     "unity": "2022.3",
