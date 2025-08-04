@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - BidMachine Adapter to your 
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.bidmachine": "5.1.4",
+    "com.chartboost.mediation.unity.adapter.bidmachine": "5.1.5",
     ...
 },
 "scopedRegistries": [
