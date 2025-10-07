@@ -10,9 +10,9 @@
     </androidPackages>
     <iosPods>
         <!-- iOS Adapter -->
-        <iosPod name="ChartboostMediationAdapterBidMachine" version="~> 5.3.2.0"/>
+        <iosPod name="ChartboostMediationAdapterBidMachine" version="~> 5.3.3.0"/>
 
         <!-- Partner iOS SDK-->
-        <iosPod name="BidMachine" version="~> 3.2.0" addToAllTargets="true"/>
+        <iosPod name="BidMachine" version="~> 3.3.0" addToAllTargets="true"/>
     </iosPods>
 </dependencies>
