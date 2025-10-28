@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.1.8 *(2025-10-21)*
+This version of the BidMachine Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-bidmachine:5.3.5.+`
+  * iOS: `ChartboostMediationAdapterBidMachine: ~> 5.3.4.0`
+
 ### Version 5.1.7 *(2025-09-15)*
 This version of the BidMachine Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-bidmachine:5.3.3.+`
