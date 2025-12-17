@@ -1,11 +1,11 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.bidmachine",
-    "version": "5.1.8",
+    "version": "5.1.9",
     "displayName": "Chartboost Mediation Adapter - BidMachine",
     "description": "The Chartboost Mediation Unity SDK Adapter for BidMachine.",
     "unity": "2022.3",
     "documentationUrl": "https://docs.chartboost.com/en/mediation/integrate/unity/get-started/",
-    "changelogUrl": "https://docs.chartboost.com/en/mediation/integrate/unity/changelog/",
+    "changelogUrl": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-bidmachine/blob/main/CHANGELOG.md",
     "licensesUrl": "https://docs.chartboost.com/en/legal/",
     "dependencies": {
         "com.chartboost.mediation" : "5.0.0",
