@@ -1,6 +1,7 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.bidmachine",
-    "version": "5.1.9",
+    "version": "5.1.10",
+    "license": "MIT",
     "displayName": "Chartboost Mediation Adapter - BidMachine",
     "description": "The Chartboost Mediation Unity SDK Adapter for BidMachine.",
     "unity": "2022.3",
@@ -8,12 +9,19 @@
     "changelogUrl": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-bidmachine/blob/main/CHANGELOG.md",
     "licensesUrl": "https://docs.chartboost.com/en/legal/",
     "dependencies": {
-        "com.chartboost.mediation" : "5.0.0",
+        "com.chartboost.mediation": "5.0.0",
         "com.chartboost.unity.threading": "1.0.1",
         "com.chartboost.unity.utilities": "1.0.1",
         "com.chartboost.unity.logging": "1.0.0"
     },
-    "keywords": ["Chartboost", "Mediation", "Adapter", "Unity", "BidMachine"],
+    "keywords": [
+        "Chartboost",
+        "Mediation",
+        "Adapter",
+        "Unity",
+        "BidMachine"
+    ],
+    "homepage": "https://chartboost.com",
     "author": {
         "name": "Chartboost",
         "email": "sales@chartboost.com",
@@ -21,7 +29,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-bidmachine.git"
+        "url": "git+https://github.com/ChartBoost/chartboost-mediation-unity-adapter-bidmachine.git"
     },
     "bugs": {
         "url": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-bidmachine/issues",
